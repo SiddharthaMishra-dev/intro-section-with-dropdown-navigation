@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sidddharthamishra/intro-section-with-dropdown-navigation)
-- Live Site URL: [Add live site URL here](https://sidddharthamishra.github.io/intro-section-with-dropdown-navigation/)
+- Solution URL: [Github](https://github.com/sidddharthamishra/intro-section-with-dropdown-navigation)
+- Live Site URL: [pages](https://sidddharthamishra.github.io/intro-section-with-dropdown-navigation/)
 
 ## My process
 
